@@ -6,4 +6,4 @@ image_resource:
   source: { repository: busybox}
 run:
   path: echo
-  args: [hello world changed]
+  args: [hello world changed and trigger added]
